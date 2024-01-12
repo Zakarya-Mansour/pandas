@@ -24,12 +24,4 @@ You can’t ignore missing data because many algorithms will not accept missing 
 As a first option, you can drop observations that have missing values, but doing this will drop or lose information, so be mindful of this before you remove it.
 As a second option, you can input missing values based on other observations; again, there is an opportunity to lose integrity of the data because you may be operating from assumptions and not actual observations.
 As a third option, you might alter the way the data is used to effectively navigate null values.
-Step 5: Validate and QA
-At the end of the data cleaning process, you should be able to answer these questions as a part of basic validation:
 
-Does the data make sense?
-Does the data follow the appropriate rules for its field?
-Does it prove or disprove your working theory, or bring any insight to light?
-Can you find trends in the data to help you form your next theory?
-If not, is that because of a data quality issue?
-False conclusions because of incorrect or “dirty” data can inform poor business strategy and decision-making. False conclusions can lead to an embarrassing moment in a reporting meeting when you realize your data doesn’t stand up to scrutiny. Before you get there, it is important to create a culture of quality data in your organization. To do this, you should document the tools you might use to create this culture and what data quality means to you.
